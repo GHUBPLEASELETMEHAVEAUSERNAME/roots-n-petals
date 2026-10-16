@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+*.tsbuildinfo
+server/answerKey.private.json

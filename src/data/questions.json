@@ -1,0 +1,922 @@
+[
+  {
+    "id": "q001",
+    "kind": "complex",
+    "function": "f(x) = x² + 4x + 13"
+  },
+  {
+    "id": "q002",
+    "kind": "complex",
+    "function": "f(x) = x² − 2x + 5"
+  },
+  {
+    "id": "q003",
+    "kind": "repeated",
+    "function": "f(x) = x² − 6x + 9"
+  },
+  {
+    "id": "q004",
+    "kind": "repeated",
+    "function": "f(x) = x² + 8x + 16"
+  },
+  {
+    "id": "q005",
+    "kind": "repeated",
+    "function": "f(x) = 4x² − 12x + 9"
+  },
+  {
+    "id": "q006",
+    "kind": "repeated",
+    "function": "f(x) = 9x² + 12x + 4"
+  },
+  {
+    "id": "q007",
+    "kind": "real",
+    "function": "f(x) = x² − 5x + 6"
+  },
+  {
+    "id": "q008",
+    "kind": "real",
+    "function": "f(x) = x² + x − 12"
+  },
+  {
+    "id": "q009",
+    "kind": "real",
+    "function": "f(x) = 2x² − 7x + 3"
+  },
+  {
+    "id": "q010",
+    "kind": "irrational",
+    "function": "f(x) = x² − 2x − 7"
+  },
+  {
+    "id": "q011",
+    "kind": "real",
+    "function": "f(x) = 3x² + x − 2"
+  },
+  {
+    "id": "q012",
+    "kind": "irrational",
+    "function": "f(x) = 2x² + 3x − 1"
+  },
+  {
+    "id": "q013",
+    "kind": "repeated",
+    "function": "f(x) = x² + 18x + 81"
+  },
+  {
+    "id": "q014",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 36x + 162"
+  },
+  {
+    "id": "q015",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 54x + 243"
+  },
+  {
+    "id": "q016",
+    "kind": "repeated",
+    "function": "f(x) = x² + 16x + 64"
+  },
+  {
+    "id": "q017",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 32x + 128"
+  },
+  {
+    "id": "q018",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 48x + 192"
+  },
+  {
+    "id": "q019",
+    "kind": "repeated",
+    "function": "f(x) = x² + 14x + 49"
+  },
+  {
+    "id": "q020",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 28x + 98"
+  },
+  {
+    "id": "q021",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 42x + 147"
+  },
+  {
+    "id": "q022",
+    "kind": "repeated",
+    "function": "f(x) = x² + 12x + 36"
+  },
+  {
+    "id": "q023",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 24x + 72"
+  },
+  {
+    "id": "q024",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 36x + 108"
+  },
+  {
+    "id": "q025",
+    "kind": "repeated",
+    "function": "f(x) = x² + 10x + 25"
+  },
+  {
+    "id": "q026",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 20x + 50"
+  },
+  {
+    "id": "q027",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 30x + 75"
+  },
+  {
+    "id": "q028",
+    "kind": "repeated",
+    "function": "f(x) = x² + 6x + 9"
+  },
+  {
+    "id": "q029",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 12x + 18"
+  },
+  {
+    "id": "q030",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 18x + 27"
+  },
+  {
+    "id": "q031",
+    "kind": "repeated",
+    "function": "f(x) = x² + 4x + 4"
+  },
+  {
+    "id": "q032",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 8x + 8"
+  },
+  {
+    "id": "q033",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 12x + 12"
+  },
+  {
+    "id": "q034",
+    "kind": "repeated",
+    "function": "f(x) = x² + 2x + 1"
+  },
+  {
+    "id": "q035",
+    "kind": "repeated",
+    "function": "f(x) = 2x² + 4x + 2"
+  },
+  {
+    "id": "q036",
+    "kind": "repeated",
+    "function": "f(x) = 3x² + 6x + 3"
+  },
+  {
+    "id": "q037",
+    "kind": "repeated",
+    "function": "f(x) = x²"
+  },
+  {
+    "id": "q038",
+    "kind": "repeated",
+    "function": "f(x) = 2x²"
+  },
+  {
+    "id": "q039",
+    "kind": "repeated",
+    "function": "f(x) = 3x²"
+  },
+  {
+    "id": "q040",
+    "kind": "repeated",
+    "function": "f(x) = x² − 2x + 1"
+  },
+  {
+    "id": "q041",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 4x + 2"
+  },
+  {
+    "id": "q042",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 6x + 3"
+  },
+  {
+    "id": "q043",
+    "kind": "repeated",
+    "function": "f(x) = x² − 4x + 4"
+  },
+  {
+    "id": "q044",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 8x + 8"
+  },
+  {
+    "id": "q045",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 12x + 12"
+  },
+  {
+    "id": "q046",
+    "kind": "repeated",
+    "function": "f(x) = x² − 8x + 16"
+  },
+  {
+    "id": "q047",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 16x + 32"
+  },
+  {
+    "id": "q048",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 24x + 48"
+  },
+  {
+    "id": "q049",
+    "kind": "real",
+    "function": "f(x) = x² + 15x + 56"
+  },
+  {
+    "id": "q050",
+    "kind": "real",
+    "function": "f(x) = x² + 14x + 48"
+  },
+  {
+    "id": "q051",
+    "kind": "real",
+    "function": "f(x) = x² + 13x + 40"
+  },
+  {
+    "id": "q052",
+    "kind": "real",
+    "function": "f(x) = x² + 12x + 32"
+  },
+  {
+    "id": "q053",
+    "kind": "real",
+    "function": "f(x) = x² + 11x + 24"
+  },
+  {
+    "id": "q054",
+    "kind": "real",
+    "function": "f(x) = x² + 10x + 16"
+  },
+  {
+    "id": "q055",
+    "kind": "real",
+    "function": "f(x) = x² + 9x + 8"
+  },
+  {
+    "id": "q056",
+    "kind": "real",
+    "function": "f(x) = x² + 8x"
+  },
+  {
+    "id": "q057",
+    "kind": "real",
+    "function": "f(x) = x² + 7x − 8"
+  },
+  {
+    "id": "q058",
+    "kind": "real",
+    "function": "f(x) = x² + 6x − 16"
+  },
+  {
+    "id": "q059",
+    "kind": "real",
+    "function": "f(x) = x² + 5x − 24"
+  },
+  {
+    "id": "q060",
+    "kind": "real",
+    "function": "f(x) = x² + 4x − 32"
+  },
+  {
+    "id": "q061",
+    "kind": "real",
+    "function": "f(x) = x² + 3x − 40"
+  },
+  {
+    "id": "q062",
+    "kind": "real",
+    "function": "f(x) = x² + 2x − 48"
+  },
+  {
+    "id": "q063",
+    "kind": "real",
+    "function": "f(x) = x² + x − 56"
+  },
+  {
+    "id": "q064",
+    "kind": "real",
+    "function": "f(x) = x² − 64"
+  },
+  {
+    "id": "q065",
+    "kind": "real",
+    "function": "f(x) = x² + 13x + 42"
+  },
+  {
+    "id": "q066",
+    "kind": "real",
+    "function": "f(x) = x² + 12x + 35"
+  },
+  {
+    "id": "q067",
+    "kind": "real",
+    "function": "f(x) = x² + 11x + 28"
+  },
+  {
+    "id": "q068",
+    "kind": "real",
+    "function": "f(x) = x² + 10x + 21"
+  },
+  {
+    "id": "q069",
+    "kind": "real",
+    "function": "f(x) = x² + 9x + 14"
+  },
+  {
+    "id": "q070",
+    "kind": "real",
+    "function": "f(x) = x² + 8x + 7"
+  },
+  {
+    "id": "q071",
+    "kind": "real",
+    "function": "f(x) = x² + 7x"
+  },
+  {
+    "id": "q072",
+    "kind": "real",
+    "function": "f(x) = x² + 6x − 7"
+  },
+  {
+    "id": "q073",
+    "kind": "real",
+    "function": "f(x) = x² + 5x − 14"
+  },
+  {
+    "id": "q074",
+    "kind": "real",
+    "function": "f(x) = x² + 4x − 21"
+  },
+  {
+    "id": "q075",
+    "kind": "real",
+    "function": "f(x) = x² + 3x − 28"
+  },
+  {
+    "id": "q076",
+    "kind": "real",
+    "function": "f(x) = x² + 2x − 35"
+  },
+  {
+    "id": "q077",
+    "kind": "real",
+    "function": "f(x) = x² + x − 42"
+  },
+  {
+    "id": "q078",
+    "kind": "real",
+    "function": "f(x) = x² − 49"
+  },
+  {
+    "id": "q079",
+    "kind": "real",
+    "function": "f(x) = x² − x − 56"
+  },
+  {
+    "id": "q080",
+    "kind": "real",
+    "function": "f(x) = x² + 11x + 30"
+  },
+  {
+    "id": "q081",
+    "kind": "real",
+    "function": "f(x) = x² + 10x + 24"
+  },
+  {
+    "id": "q082",
+    "kind": "real",
+    "function": "f(x) = x² + 9x + 18"
+  },
+  {
+    "id": "q083",
+    "kind": "real",
+    "function": "f(x) = x² + 8x + 12"
+  },
+  {
+    "id": "q084",
+    "kind": "real",
+    "function": "f(x) = x² + 7x + 6"
+  },
+  {
+    "id": "q085",
+    "kind": "real",
+    "function": "f(x) = x² + 6x"
+  },
+  {
+    "id": "q086",
+    "kind": "real",
+    "function": "f(x) = x² + 5x − 6"
+  },
+  {
+    "id": "q087",
+    "kind": "real",
+    "function": "f(x) = x² + 4x − 12"
+  },
+  {
+    "id": "q088",
+    "kind": "real",
+    "function": "f(x) = x² + 3x − 18"
+  },
+  {
+    "id": "q089",
+    "kind": "real",
+    "function": "f(x) = x² + 2x − 24"
+  },
+  {
+    "id": "q090",
+    "kind": "real",
+    "function": "f(x) = x² + x − 30"
+  },
+  {
+    "id": "q091",
+    "kind": "real",
+    "function": "f(x) = x² − 36"
+  },
+  {
+    "id": "q092",
+    "kind": "real",
+    "function": "f(x) = x² − x − 42"
+  },
+  {
+    "id": "q093",
+    "kind": "real",
+    "function": "f(x) = x² − 2x − 48"
+  },
+  {
+    "id": "q094",
+    "kind": "real",
+    "function": "f(x) = x² + 9x + 20"
+  },
+  {
+    "id": "q095",
+    "kind": "real",
+    "function": "f(x) = x² + 8x + 15"
+  },
+  {
+    "id": "q096",
+    "kind": "real",
+    "function": "f(x) = x² + 7x + 10"
+  },
+  {
+    "id": "q097",
+    "kind": "real",
+    "function": "f(x) = x² + 6x + 5"
+  },
+  {
+    "id": "q098",
+    "kind": "real",
+    "function": "f(x) = x² + 5x"
+  },
+  {
+    "id": "q099",
+    "kind": "real",
+    "function": "f(x) = x² + 4x − 5"
+  },
+  {
+    "id": "q100",
+    "kind": "real",
+    "function": "f(x) = x² + 3x − 10"
+  },
+  {
+    "id": "q101",
+    "kind": "real",
+    "function": "f(x) = x² + 2x − 15"
+  },
+  {
+    "id": "q102",
+    "kind": "real",
+    "function": "f(x) = x² + x − 20"
+  },
+  {
+    "id": "q103",
+    "kind": "real",
+    "function": "f(x) = x² − 25"
+  },
+  {
+    "id": "q104",
+    "kind": "real",
+    "function": "f(x) = x² − x − 30"
+  },
+  {
+    "id": "q105",
+    "kind": "real",
+    "function": "f(x) = x² − 2x − 35"
+  },
+  {
+    "id": "q106",
+    "kind": "real",
+    "function": "f(x) = x² − 3x − 40"
+  },
+  {
+    "id": "q107",
+    "kind": "complex",
+    "function": "f(x) = x² + 12x + 37"
+  },
+  {
+    "id": "q108",
+    "kind": "complex",
+    "function": "f(x) = x² + 12x + 40"
+  },
+  {
+    "id": "q109",
+    "kind": "complex",
+    "function": "f(x) = x² + 12x + 45"
+  },
+  {
+    "id": "q110",
+    "kind": "complex",
+    "function": "f(x) = x² + 12x + 52"
+  },
+  {
+    "id": "q111",
+    "kind": "complex",
+    "function": "f(x) = x² + 12x + 61"
+  },
+  {
+    "id": "q112",
+    "kind": "complex",
+    "function": "f(x) = x² + 10x + 26"
+  },
+  {
+    "id": "q113",
+    "kind": "complex",
+    "function": "f(x) = x² + 10x + 29"
+  },
+  {
+    "id": "q114",
+    "kind": "complex",
+    "function": "f(x) = x² + 10x + 34"
+  },
+  {
+    "id": "q115",
+    "kind": "complex",
+    "function": "f(x) = x² + 10x + 41"
+  },
+  {
+    "id": "q116",
+    "kind": "complex",
+    "function": "f(x) = x² + 10x + 50"
+  },
+  {
+    "id": "q117",
+    "kind": "complex",
+    "function": "f(x) = x² + 8x + 17"
+  },
+  {
+    "id": "q118",
+    "kind": "complex",
+    "function": "f(x) = x² + 8x + 20"
+  },
+  {
+    "id": "q119",
+    "kind": "complex",
+    "function": "f(x) = x² + 8x + 25"
+  },
+  {
+    "id": "q120",
+    "kind": "complex",
+    "function": "f(x) = x² + 8x + 32"
+  },
+  {
+    "id": "q121",
+    "kind": "complex",
+    "function": "f(x) = x² + 8x + 41"
+  },
+  {
+    "id": "q122",
+    "kind": "complex",
+    "function": "f(x) = x² + 6x + 10"
+  },
+  {
+    "id": "q123",
+    "kind": "complex",
+    "function": "f(x) = x² + 6x + 13"
+  },
+  {
+    "id": "q124",
+    "kind": "complex",
+    "function": "f(x) = x² + 6x + 18"
+  },
+  {
+    "id": "q125",
+    "kind": "complex",
+    "function": "f(x) = x² + 6x + 25"
+  },
+  {
+    "id": "q126",
+    "kind": "complex",
+    "function": "f(x) = x² + 6x + 34"
+  },
+  {
+    "id": "q127",
+    "kind": "complex",
+    "function": "f(x) = x² + 4x + 5"
+  },
+  {
+    "id": "q128",
+    "kind": "complex",
+    "function": "f(x) = x² + 4x + 8"
+  },
+  {
+    "id": "q129",
+    "kind": "complex",
+    "function": "f(x) = x² + 4x + 20"
+  },
+  {
+    "id": "q130",
+    "kind": "complex",
+    "function": "f(x) = x² + 4x + 29"
+  },
+  {
+    "id": "q131",
+    "kind": "complex",
+    "function": "f(x) = x² + 2x + 2"
+  },
+  {
+    "id": "q132",
+    "kind": "complex",
+    "function": "f(x) = x² + 2x + 5"
+  },
+  {
+    "id": "q133",
+    "kind": "complex",
+    "function": "f(x) = x² + 2x + 10"
+  },
+  {
+    "id": "q134",
+    "kind": "complex",
+    "function": "f(x) = x² + 2x + 17"
+  },
+  {
+    "id": "q135",
+    "kind": "complex",
+    "function": "f(x) = x² + 2x + 26"
+  },
+  {
+    "id": "q136",
+    "kind": "complex",
+    "function": "f(x) = x² + 1"
+  },
+  {
+    "id": "q137",
+    "kind": "irrational",
+    "function": "f(x) = x² − 9x + 6"
+  },
+  {
+    "id": "q138",
+    "kind": "irrational",
+    "function": "f(x) = x² − 9x + 7"
+  },
+  {
+    "id": "q139",
+    "kind": "irrational",
+    "function": "f(x) = x² − 9x + 9"
+  },
+  {
+    "id": "q140",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 1"
+  },
+  {
+    "id": "q141",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 2"
+  },
+  {
+    "id": "q142",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 3"
+  },
+  {
+    "id": "q143",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 4"
+  },
+  {
+    "id": "q144",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 5"
+  },
+  {
+    "id": "q145",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 6"
+  },
+  {
+    "id": "q146",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 8"
+  },
+  {
+    "id": "q147",
+    "kind": "irrational",
+    "function": "f(x) = x² − 8x + 9"
+  },
+  {
+    "id": "q148",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x − 2"
+  },
+  {
+    "id": "q149",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x − 1"
+  },
+  {
+    "id": "q150",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 1"
+  },
+  {
+    "id": "q151",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 2"
+  },
+  {
+    "id": "q152",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 3"
+  },
+  {
+    "id": "q153",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 4"
+  },
+  {
+    "id": "q154",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 5"
+  },
+  {
+    "id": "q155",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 7"
+  },
+  {
+    "id": "q156",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 8"
+  },
+  {
+    "id": "q157",
+    "kind": "irrational",
+    "function": "f(x) = x² − 7x + 9"
+  },
+  {
+    "id": "q158",
+    "kind": "irrational",
+    "function": "f(x) = x² − 6x − 6"
+  },
+  {
+    "id": "q159",
+    "kind": "irrational",
+    "function": "f(x) = x² − 6x − 5"
+  },
+  {
+    "id": "q160",
+    "kind": "irrational",
+    "function": "f(x) = x² − 6x − 4"
+  },
+  {
+    "id": "q161",
+    "kind": "repeated",
+    "function": "f(x) = x² − 10x + 25"
+  },
+  {
+    "id": "q162",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 20x + 50"
+  },
+  {
+    "id": "q163",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 30x + 75"
+  },
+  {
+    "id": "q164",
+    "kind": "repeated",
+    "function": "f(x) = x² − 12x + 36"
+  },
+  {
+    "id": "q165",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 24x + 72"
+  },
+  {
+    "id": "q166",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 36x + 108"
+  },
+  {
+    "id": "q167",
+    "kind": "repeated",
+    "function": "f(x) = x² − 14x + 49"
+  },
+  {
+    "id": "q168",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 28x + 98"
+  },
+  {
+    "id": "q169",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 42x + 147"
+  },
+  {
+    "id": "q170",
+    "kind": "repeated",
+    "function": "f(x) = x² − 16x + 64"
+  },
+  {
+    "id": "q171",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 32x + 128"
+  },
+  {
+    "id": "q172",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 48x + 192"
+  },
+  {
+    "id": "q173",
+    "kind": "repeated",
+    "function": "f(x) = x² − 18x + 81"
+  },
+  {
+    "id": "q174",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 36x + 162"
+  },
+  {
+    "id": "q175",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 54x + 243"
+  },
+  {
+    "id": "q176",
+    "kind": "repeated",
+    "function": "f(x) = x² − 20x + 100"
+  },
+  {
+    "id": "q177",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 40x + 200"
+  },
+  {
+    "id": "q178",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 60x + 300"
+  },
+  {
+    "id": "q179",
+    "kind": "repeated",
+    "function": "f(x) = x² − 22x + 121"
+  },
+  {
+    "id": "q180",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 44x + 242"
+  },
+  {
+    "id": "q181",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 66x + 363"
+  },
+  {
+    "id": "q182",
+    "kind": "repeated",
+    "function": "f(x) = x² − 24x + 144"
+  },
+  {
+    "id": "q183",
+    "kind": "repeated",
+    "function": "f(x) = 2x² − 48x + 288"
+  },
+  {
+    "id": "q184",
+    "kind": "repeated",
+    "function": "f(x) = 3x² − 72x + 432"
+  }
+]
