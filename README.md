@@ -4,7 +4,7 @@ A quadratic-function photo puzzle. Find each function’s zeros to release fragm
 
 ## Play modes and difficulty
 
-- **Auto** places each released fragment in its original location.
+- **Auto** places each released fragment in its original location, found using a secret code. (Justin's such a bebeh?)
 - **Manual** asks players to drag a released fragment onto the board, or select it and then select an empty space. A small number records the order in which the fragment was solved; it does not reveal its destination.
 - Harder and Impossible always use Manual mode.
 - Easy uses a 4 × 3 board (12 tiles), Medium 4 × 4 (16), Hard 8 × 4 (32), Harder 8 × 8 (64), and Impossible 16 × 8 (128).
