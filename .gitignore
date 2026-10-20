@@ -5,3 +5,4 @@ dist
 .vercel
 *.tsbuildinfo
 server/answerKey.private.json
+.env.example
